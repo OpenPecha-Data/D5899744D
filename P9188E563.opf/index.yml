@@ -1,11 +1,11 @@
-id: b79584e1ba474b68a290a39b957756ae
+id: 7e6f91fe7cb946bcadffb9fe6bf9caf5
 annotation_type: index
 revision: '00001'
 annotations:
-  efa1d9e06b35462d80efeb2210f9dab2:
+  26e30a8a883b4ac2a8e0a3cd9d6c98dd:
     parts: {}
     span:
     - vol: 93
-      start: 0
-      end: 2280
+      start: 1
+      end: 1869
     work_id: D4148
