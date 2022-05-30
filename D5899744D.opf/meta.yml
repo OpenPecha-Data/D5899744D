@@ -1,0 +1,22 @@
+id: D5899744D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T14:00:46+00:00'
+last_modified: '2022-05-30T04:11:22.372363+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    b696:
+      image_group_id: I1PD95938
+      title: བསླབ་པ་བཅུའི་ཆོ་ག།
+      total_pages: 1484
+      order: 93
+      base_file: b696.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
